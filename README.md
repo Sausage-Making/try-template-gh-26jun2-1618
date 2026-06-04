@@ -73,7 +73,7 @@ Usage of this file as README.md for actual repo:
 
 -->
 
-# %%TITLE%%
+# Try template ...
 
 %%SHORT_DESCRIPTION%% <!--???? Same as for "description" in package.json -->
 
