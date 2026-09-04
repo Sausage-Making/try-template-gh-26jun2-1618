@@ -75,7 +75,7 @@ Usage of this file as README.md for actual repo:
 
 # Try template ...
 
-little bit more of fooling around ... <!--???? Same as for "description" in package.json -->
+little even bit more of fooling around ... <!--???? Same as for "description" in package.json -->
 
 *[...author / contact...](mailto:...email...?subject=...project-name...)*<!--???? Same as for "author" in package.json -->
 
